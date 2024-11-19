@@ -14,7 +14,8 @@ async function main() {
     cards.forEach(card => {
         showCard.innerHTML += `<div class="col-4">
                     <div class="card">
-                        <img src="${card.url}" class="card-img-top card-img" alt="...">
+                    <img src="./img/pin.svg" alt="pin img"  class="pin">
+                        <img src="${card.url}" class="card-img-top card-img" alt="${card.title}">
                         <div class="card-body">
 
                             <p class="card-text">${card.title}</p>

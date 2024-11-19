@@ -21,3 +21,8 @@ body {
 .card {
 margin-bottom: 2rem;
 }
+
+.pin {
+    position: absolute;
+    left: 45%;
+}
