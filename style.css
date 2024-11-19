@@ -1,0 +1,15 @@
+.bg-img {
+
+    background-image: url('./img/wall.png');
+    background-size: cover;
+}
+
+.body-bg-img {
+    background-image: url('./img/cork.png');
+    background-size: cover;
+}
+
+.card-img {
+    padding: 1.5rem;
+    padding-bottom: 0;
+}
