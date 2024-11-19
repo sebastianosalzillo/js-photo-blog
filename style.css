@@ -13,3 +13,11 @@
     padding: 1.5rem;
     padding-bottom: 0;
 }
+
+body {
+    font-family: 'Edu TAS Beginner', sans-serif; /* Font predefinito */
+}
+
+.card {
+margin-bottom: 2rem;
+}
